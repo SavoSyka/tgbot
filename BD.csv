@@ -1,0 +1,486 @@
+ID,username,name,field,type,skills,about,request
+334504211,SavoSyka,Artem,GameDev,Основатель стартапа,Ебу жоска,Если я бы баб не еб бы я без баб бы ебы дал,Ищу инвестиции
+938905367,flarpzzzz,Даня,AI,Основатель стартапа,Илон Маск,Маск Илон,Ищу место работы
+748067391,onotolys,Николай,AI,Инвестор,"Я умею стоять на руках, плевать в потолок и выть на луну. Я могу быть интересен собеседнику тем, что я знаю в совершенстве индонезийский язык","Я умею стоять на руках, плевать в потолок и выть на луну. Я могу быть интересен собеседнику тем, что я знаю в совершенстве индонезийский язык",Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+1617945943,sonimmm,Соня,Crypto,Инвестор,Ну я вообще крутая,"Я умная красивая, целеустремлённая, люблю спорт и танцы, медитации и дыхание вообще тема",Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+823494584,almair0,Almir,GameDev,Инвестор,Ochko Konya,Ебаный бегемот,Ищу проекты для инвестиций
+1,username_1,name_1,GameDev,Основатель стартапа,skills_1,about_1,Ищу место работы
+2,username_2,name_2,GameDev,Основатель стартапа,skills_2,about_2,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+3,username_3,name_3,GameDev,Основатель стартапа,skills_3,about_3,Ищу сотрудников
+4,username_4,name_4,GameDev,Основатель стартапа,skills_4,about_4,Ищу клиентов
+5,username_5,name_5,GameDev,Основатель стартапа,skills_5,about_5,Ищу экспертов или консультантов
+6,username_6,name_6,GameDev,Основатель стартапа,skills_6,about_6,Ищу партнеров для проекта
+7,username_7,name_7,GameDev,Основатель стартапа,skills_7,about_7,Ищу проекты для инвестиций
+8,username_8,name_8,GameDev,Владелец продукта,skills_8,about_8,Ищу инвестиции
+9,username_9,name_9,GameDev,Владелец продукта,skills_9,about_9,Ищу место работы
+10,username_10,name_10,GameDev,Владелец продукта,skills_10,about_10,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+11,username_11,name_11,GameDev,Владелец продукта,skills_11,about_11,Ищу сотрудников
+12,username_12,name_12,GameDev,Владелец продукта,skills_12,about_12,Ищу клиентов
+13,username_13,name_13,GameDev,Владелец продукта,skills_13,about_13,Ищу экспертов или консультантов
+14,username_14,name_14,GameDev,Владелец продукта,skills_14,about_14,Ищу партнеров для проекта
+15,username_15,name_15,GameDev,Владелец продукта,skills_15,about_15,Ищу проекты для инвестиций
+16,username_16,name_16,GameDev,Инвестор,skills_16,about_16,Ищу инвестиции
+17,username_17,name_17,GameDev,Инвестор,skills_17,about_17,Ищу место работы
+18,username_18,name_18,GameDev,Инвестор,skills_18,about_18,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+19,username_19,name_19,GameDev,Инвестор,skills_19,about_19,Ищу сотрудников
+20,username_20,name_20,GameDev,Инвестор,skills_20,about_20,Ищу клиентов
+21,username_21,name_21,GameDev,Инвестор,skills_21,about_21,Ищу экспертов или консультантов
+22,username_22,name_22,GameDev,Инвестор,skills_22,about_22,Ищу партнеров для проекта
+23,username_23,name_23,GameDev,Инвестор,skills_23,about_23,Ищу проекты для инвестиций
+24,username_24,name_24,GameDev,Представитель компании,skills_24,about_24,Ищу инвестиции
+25,username_25,name_25,GameDev,Представитель компании,skills_25,about_25,Ищу место работы
+26,username_26,name_26,GameDev,Представитель компании,skills_26,about_26,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+27,username_27,name_27,GameDev,Представитель компании,skills_27,about_27,Ищу сотрудников
+28,username_28,name_28,GameDev,Представитель компании,skills_28,about_28,Ищу клиентов
+29,username_29,name_29,GameDev,Представитель компании,skills_29,about_29,Ищу экспертов или консультантов
+30,username_30,name_30,GameDev,Представитель компании,skills_30,about_30,Ищу партнеров для проекта
+31,username_31,name_31,GameDev,Представитель компании,skills_31,about_31,Ищу проекты для инвестиций
+32,username_32,name_32,GameDev,Специалист,skills_32,about_32,Ищу инвестиции
+33,username_33,name_33,GameDev,Специалист,skills_33,about_33,Ищу место работы
+34,username_34,name_34,GameDev,Специалист,skills_34,about_34,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+35,username_35,name_35,GameDev,Специалист,skills_35,about_35,Ищу сотрудников
+36,username_36,name_36,GameDev,Специалист,skills_36,about_36,Ищу клиентов
+37,username_37,name_37,GameDev,Специалист,skills_37,about_37,Ищу экспертов или консультантов
+38,username_38,name_38,GameDev,Специалист,skills_38,about_38,Ищу партнеров для проекта
+39,username_39,name_39,GameDev,Специалист,skills_39,about_39,Ищу проекты для инвестиций
+40,username_40,name_40,EdTech,Основатель стартапа,skills_40,about_40,Ищу инвестиции
+41,username_41,name_41,EdTech,Основатель стартапа,skills_41,about_41,Ищу место работы
+42,username_42,name_42,EdTech,Основатель стартапа,skills_42,about_42,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+43,username_43,name_43,EdTech,Основатель стартапа,skills_43,about_43,Ищу сотрудников
+44,username_44,name_44,EdTech,Основатель стартапа,skills_44,about_44,Ищу клиентов
+45,username_45,name_45,EdTech,Основатель стартапа,skills_45,about_45,Ищу экспертов или консультантов
+46,username_46,name_46,EdTech,Основатель стартапа,skills_46,about_46,Ищу партнеров для проекта
+47,username_47,name_47,EdTech,Основатель стартапа,skills_47,about_47,Ищу проекты для инвестиций
+48,username_48,name_48,EdTech,Владелец продукта,skills_48,about_48,Ищу инвестиции
+49,username_49,name_49,EdTech,Владелец продукта,skills_49,about_49,Ищу место работы
+50,username_50,name_50,EdTech,Владелец продукта,skills_50,about_50,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+51,username_51,name_51,EdTech,Владелец продукта,skills_51,about_51,Ищу сотрудников
+52,username_52,name_52,EdTech,Владелец продукта,skills_52,about_52,Ищу клиентов
+53,username_53,name_53,EdTech,Владелец продукта,skills_53,about_53,Ищу экспертов или консультантов
+54,username_54,name_54,EdTech,Владелец продукта,skills_54,about_54,Ищу партнеров для проекта
+55,username_55,name_55,EdTech,Владелец продукта,skills_55,about_55,Ищу проекты для инвестиций
+56,username_56,name_56,EdTech,Инвестор,skills_56,about_56,Ищу инвестиции
+57,username_57,name_57,EdTech,Инвестор,skills_57,about_57,Ищу место работы
+58,username_58,name_58,EdTech,Инвестор,skills_58,about_58,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+59,username_59,name_59,EdTech,Инвестор,skills_59,about_59,Ищу сотрудников
+60,username_60,name_60,EdTech,Инвестор,skills_60,about_60,Ищу клиентов
+61,username_61,name_61,EdTech,Инвестор,skills_61,about_61,Ищу экспертов или консультантов
+62,username_62,name_62,EdTech,Инвестор,skills_62,about_62,Ищу партнеров для проекта
+63,username_63,name_63,EdTech,Инвестор,skills_63,about_63,Ищу проекты для инвестиций
+64,username_64,name_64,EdTech,Представитель компании,skills_64,about_64,Ищу инвестиции
+65,username_65,name_65,EdTech,Представитель компании,skills_65,about_65,Ищу место работы
+66,username_66,name_66,EdTech,Представитель компании,skills_66,about_66,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+67,username_67,name_67,EdTech,Представитель компании,skills_67,about_67,Ищу сотрудников
+68,username_68,name_68,EdTech,Представитель компании,skills_68,about_68,Ищу клиентов
+69,username_69,name_69,EdTech,Представитель компании,skills_69,about_69,Ищу экспертов или консультантов
+70,username_70,name_70,EdTech,Представитель компании,skills_70,about_70,Ищу партнеров для проекта
+71,username_71,name_71,EdTech,Представитель компании,skills_71,about_71,Ищу проекты для инвестиций
+72,username_72,name_72,EdTech,Специалист,skills_72,about_72,Ищу инвестиции
+73,username_73,name_73,EdTech,Специалист,skills_73,about_73,Ищу место работы
+74,username_74,name_74,EdTech,Специалист,skills_74,about_74,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+75,username_75,name_75,EdTech,Специалист,skills_75,about_75,Ищу сотрудников
+76,username_76,name_76,EdTech,Специалист,skills_76,about_76,Ищу клиентов
+77,username_77,name_77,EdTech,Специалист,skills_77,about_77,Ищу экспертов или консультантов
+78,username_78,name_78,EdTech,Специалист,skills_78,about_78,Ищу партнеров для проекта
+79,username_79,name_79,EdTech,Специалист,skills_79,about_79,Ищу проекты для инвестиций
+80,username_80,name_80,Crypto,Основатель стартапа,skills_80,about_80,Ищу инвестиции
+81,username_81,name_81,Crypto,Основатель стартапа,skills_81,about_81,Ищу место работы
+82,username_82,name_82,Crypto,Основатель стартапа,skills_82,about_82,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+83,username_83,name_83,Crypto,Основатель стартапа,skills_83,about_83,Ищу сотрудников
+84,username_84,name_84,Crypto,Основатель стартапа,skills_84,about_84,Ищу клиентов
+85,username_85,name_85,Crypto,Основатель стартапа,skills_85,about_85,Ищу экспертов или консультантов
+86,username_86,name_86,Crypto,Основатель стартапа,skills_86,about_86,Ищу партнеров для проекта
+87,username_87,name_87,Crypto,Основатель стартапа,skills_87,about_87,Ищу проекты для инвестиций
+88,username_88,name_88,Crypto,Владелец продукта,skills_88,about_88,Ищу инвестиции
+89,username_89,name_89,Crypto,Владелец продукта,skills_89,about_89,Ищу место работы
+90,username_90,name_90,Crypto,Владелец продукта,skills_90,about_90,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+91,username_91,name_91,Crypto,Владелец продукта,skills_91,about_91,Ищу сотрудников
+92,username_92,name_92,Crypto,Владелец продукта,skills_92,about_92,Ищу клиентов
+93,username_93,name_93,Crypto,Владелец продукта,skills_93,about_93,Ищу экспертов или консультантов
+94,username_94,name_94,Crypto,Владелец продукта,skills_94,about_94,Ищу партнеров для проекта
+95,username_95,name_95,Crypto,Владелец продукта,skills_95,about_95,Ищу проекты для инвестиций
+96,username_96,name_96,Crypto,Инвестор,skills_96,about_96,Ищу инвестиции
+97,username_97,name_97,Crypto,Инвестор,skills_97,about_97,Ищу место работы
+98,username_98,name_98,Crypto,Инвестор,skills_98,about_98,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+99,username_99,name_99,Crypto,Инвестор,skills_99,about_99,Ищу сотрудников
+100,username_100,name_100,Crypto,Инвестор,skills_100,about_100,Ищу клиентов
+101,username_101,name_101,Crypto,Инвестор,skills_101,about_101,Ищу экспертов или консультантов
+102,username_102,name_102,Crypto,Инвестор,skills_102,about_102,Ищу партнеров для проекта
+103,username_103,name_103,Crypto,Инвестор,skills_103,about_103,Ищу проекты для инвестиций
+104,username_104,name_104,Crypto,Представитель компании,skills_104,about_104,Ищу инвестиции
+105,username_105,name_105,Crypto,Представитель компании,skills_105,about_105,Ищу место работы
+106,username_106,name_106,Crypto,Представитель компании,skills_106,about_106,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+107,username_107,name_107,Crypto,Представитель компании,skills_107,about_107,Ищу сотрудников
+108,username_108,name_108,Crypto,Представитель компании,skills_108,about_108,Ищу клиентов
+109,username_109,name_109,Crypto,Представитель компании,skills_109,about_109,Ищу экспертов или консультантов
+110,username_110,name_110,Crypto,Представитель компании,skills_110,about_110,Ищу партнеров для проекта
+111,username_111,name_111,Crypto,Представитель компании,skills_111,about_111,Ищу проекты для инвестиций
+112,username_112,name_112,Crypto,Специалист,skills_112,about_112,Ищу инвестиции
+113,username_113,name_113,Crypto,Специалист,skills_113,about_113,Ищу место работы
+114,username_114,name_114,Crypto,Специалист,skills_114,about_114,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+115,username_115,name_115,Crypto,Специалист,skills_115,about_115,Ищу сотрудников
+116,username_116,name_116,Crypto,Специалист,skills_116,about_116,Ищу клиентов
+117,username_117,name_117,Crypto,Специалист,skills_117,about_117,Ищу экспертов или консультантов
+118,username_118,name_118,Crypto,Специалист,skills_118,about_118,Ищу партнеров для проекта
+119,username_119,name_119,Crypto,Специалист,skills_119,about_119,Ищу проекты для инвестиций
+120,username_120,name_120,FinTech,Основатель стартапа,skills_120,about_120,Ищу инвестиции
+121,username_121,name_121,FinTech,Основатель стартапа,skills_121,about_121,Ищу место работы
+122,username_122,name_122,FinTech,Основатель стартапа,skills_122,about_122,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+123,username_123,name_123,FinTech,Основатель стартапа,skills_123,about_123,Ищу сотрудников
+124,username_124,name_124,FinTech,Основатель стартапа,skills_124,about_124,Ищу клиентов
+125,username_125,name_125,FinTech,Основатель стартапа,skills_125,about_125,Ищу экспертов или консультантов
+126,username_126,name_126,FinTech,Основатель стартапа,skills_126,about_126,Ищу партнеров для проекта
+127,username_127,name_127,FinTech,Основатель стартапа,skills_127,about_127,Ищу проекты для инвестиций
+128,username_128,name_128,FinTech,Владелец продукта,skills_128,about_128,Ищу инвестиции
+129,username_129,name_129,FinTech,Владелец продукта,skills_129,about_129,Ищу место работы
+130,username_130,name_130,FinTech,Владелец продукта,skills_130,about_130,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+131,username_131,name_131,FinTech,Владелец продукта,skills_131,about_131,Ищу сотрудников
+132,username_132,name_132,FinTech,Владелец продукта,skills_132,about_132,Ищу клиентов
+133,username_133,name_133,FinTech,Владелец продукта,skills_133,about_133,Ищу экспертов или консультантов
+134,username_134,name_134,FinTech,Владелец продукта,skills_134,about_134,Ищу партнеров для проекта
+135,username_135,name_135,FinTech,Владелец продукта,skills_135,about_135,Ищу проекты для инвестиций
+136,username_136,name_136,FinTech,Инвестор,skills_136,about_136,Ищу инвестиции
+137,username_137,name_137,FinTech,Инвестор,skills_137,about_137,Ищу место работы
+138,username_138,name_138,FinTech,Инвестор,skills_138,about_138,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+139,username_139,name_139,FinTech,Инвестор,skills_139,about_139,Ищу сотрудников
+140,username_140,name_140,FinTech,Инвестор,skills_140,about_140,Ищу клиентов
+141,username_141,name_141,FinTech,Инвестор,skills_141,about_141,Ищу экспертов или консультантов
+142,username_142,name_142,FinTech,Инвестор,skills_142,about_142,Ищу партнеров для проекта
+143,username_143,name_143,FinTech,Инвестор,skills_143,about_143,Ищу проекты для инвестиций
+144,username_144,name_144,FinTech,Представитель компании,skills_144,about_144,Ищу инвестиции
+145,username_145,name_145,FinTech,Представитель компании,skills_145,about_145,Ищу место работы
+146,username_146,name_146,FinTech,Представитель компании,skills_146,about_146,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+147,username_147,name_147,FinTech,Представитель компании,skills_147,about_147,Ищу сотрудников
+148,username_148,name_148,FinTech,Представитель компании,skills_148,about_148,Ищу клиентов
+149,username_149,name_149,FinTech,Представитель компании,skills_149,about_149,Ищу экспертов или консультантов
+150,username_150,name_150,FinTech,Представитель компании,skills_150,about_150,Ищу партнеров для проекта
+151,username_151,name_151,FinTech,Представитель компании,skills_151,about_151,Ищу проекты для инвестиций
+152,username_152,name_152,FinTech,Специалист,skills_152,about_152,Ищу инвестиции
+153,username_153,name_153,FinTech,Специалист,skills_153,about_153,Ищу место работы
+154,username_154,name_154,FinTech,Специалист,skills_154,about_154,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+155,username_155,name_155,FinTech,Специалист,skills_155,about_155,Ищу сотрудников
+156,username_156,name_156,FinTech,Специалист,skills_156,about_156,Ищу клиентов
+157,username_157,name_157,FinTech,Специалист,skills_157,about_157,Ищу экспертов или консультантов
+158,username_158,name_158,FinTech,Специалист,skills_158,about_158,Ищу партнеров для проекта
+159,username_159,name_159,FinTech,Специалист,skills_159,about_159,Ищу проекты для инвестиций
+160,username_160,name_160,AI,Основатель стартапа,skills_160,about_160,Ищу инвестиции
+161,username_161,name_161,AI,Основатель стартапа,skills_161,about_161,Ищу место работы
+162,username_162,name_162,AI,Основатель стартапа,skills_162,about_162,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+163,username_163,name_163,AI,Основатель стартапа,skills_163,about_163,Ищу сотрудников
+164,username_164,name_164,AI,Основатель стартапа,skills_164,about_164,Ищу клиентов
+165,username_165,name_165,AI,Основатель стартапа,skills_165,about_165,Ищу экспертов или консультантов
+166,username_166,name_166,AI,Основатель стартапа,skills_166,about_166,Ищу партнеров для проекта
+167,username_167,name_167,AI,Основатель стартапа,skills_167,about_167,Ищу проекты для инвестиций
+168,username_168,name_168,AI,Владелец продукта,skills_168,about_168,Ищу инвестиции
+169,username_169,name_169,AI,Владелец продукта,skills_169,about_169,Ищу место работы
+170,username_170,name_170,AI,Владелец продукта,skills_170,about_170,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+171,username_171,name_171,AI,Владелец продукта,skills_171,about_171,Ищу сотрудников
+172,username_172,name_172,AI,Владелец продукта,skills_172,about_172,Ищу клиентов
+173,username_173,name_173,AI,Владелец продукта,skills_173,about_173,Ищу экспертов или консультантов
+174,username_174,name_174,AI,Владелец продукта,skills_174,about_174,Ищу партнеров для проекта
+175,username_175,name_175,AI,Владелец продукта,skills_175,about_175,Ищу проекты для инвестиций
+176,username_176,name_176,AI,Инвестор,skills_176,about_176,Ищу инвестиции
+177,username_177,name_177,AI,Инвестор,skills_177,about_177,Ищу место работы
+178,username_178,name_178,AI,Инвестор,skills_178,about_178,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+179,username_179,name_179,AI,Инвестор,skills_179,about_179,Ищу сотрудников
+180,username_180,name_180,AI,Инвестор,skills_180,about_180,Ищу клиентов
+181,username_181,name_181,AI,Инвестор,skills_181,about_181,Ищу экспертов или консультантов
+182,username_182,name_182,AI,Инвестор,skills_182,about_182,Ищу партнеров для проекта
+183,username_183,name_183,AI,Инвестор,skills_183,about_183,Ищу проекты для инвестиций
+184,username_184,name_184,AI,Представитель компании,skills_184,about_184,Ищу инвестиции
+185,username_185,name_185,AI,Представитель компании,skills_185,about_185,Ищу место работы
+186,username_186,name_186,AI,Представитель компании,skills_186,about_186,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+187,username_187,name_187,AI,Представитель компании,skills_187,about_187,Ищу сотрудников
+188,username_188,name_188,AI,Представитель компании,skills_188,about_188,Ищу клиентов
+189,username_189,name_189,AI,Представитель компании,skills_189,about_189,Ищу экспертов или консультантов
+190,username_190,name_190,AI,Представитель компании,skills_190,about_190,Ищу партнеров для проекта
+191,username_191,name_191,AI,Представитель компании,skills_191,about_191,Ищу проекты для инвестиций
+192,username_192,name_192,AI,Специалист,skills_192,about_192,Ищу инвестиции
+193,username_193,name_193,AI,Специалист,skills_193,about_193,Ищу место работы
+194,username_194,name_194,AI,Специалист,skills_194,about_194,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+195,username_195,name_195,AI,Специалист,skills_195,about_195,Ищу сотрудников
+196,username_196,name_196,AI,Специалист,skills_196,about_196,Ищу клиентов
+197,username_197,name_197,AI,Специалист,skills_197,about_197,Ищу экспертов или консультантов
+198,username_198,name_198,AI,Специалист,skills_198,about_198,Ищу партнеров для проекта
+199,username_199,name_199,AI,Специалист,skills_199,about_199,Ищу проекты для инвестиций
+200,username_200,name_200,WebDev,Основатель стартапа,skills_200,about_200,Ищу инвестиции
+201,username_201,name_201,WebDev,Основатель стартапа,skills_201,about_201,Ищу место работы
+202,username_202,name_202,WebDev,Основатель стартапа,skills_202,about_202,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+203,username_203,name_203,WebDev,Основатель стартапа,skills_203,about_203,Ищу сотрудников
+204,username_204,name_204,WebDev,Основатель стартапа,skills_204,about_204,Ищу клиентов
+205,username_205,name_205,WebDev,Основатель стартапа,skills_205,about_205,Ищу экспертов или консультантов
+206,username_206,name_206,WebDev,Основатель стартапа,skills_206,about_206,Ищу партнеров для проекта
+207,username_207,name_207,WebDev,Основатель стартапа,skills_207,about_207,Ищу проекты для инвестиций
+208,username_208,name_208,WebDev,Владелец продукта,skills_208,about_208,Ищу инвестиции
+209,username_209,name_209,WebDev,Владелец продукта,skills_209,about_209,Ищу место работы
+210,username_210,name_210,WebDev,Владелец продукта,skills_210,about_210,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+211,username_211,name_211,WebDev,Владелец продукта,skills_211,about_211,Ищу сотрудников
+212,username_212,name_212,WebDev,Владелец продукта,skills_212,about_212,Ищу клиентов
+213,username_213,name_213,WebDev,Владелец продукта,skills_213,about_213,Ищу экспертов или консультантов
+214,username_214,name_214,WebDev,Владелец продукта,skills_214,about_214,Ищу партнеров для проекта
+215,username_215,name_215,WebDev,Владелец продукта,skills_215,about_215,Ищу проекты для инвестиций
+216,username_216,name_216,WebDev,Инвестор,skills_216,about_216,Ищу инвестиции
+217,username_217,name_217,WebDev,Инвестор,skills_217,about_217,Ищу место работы
+218,username_218,name_218,WebDev,Инвестор,skills_218,about_218,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+219,username_219,name_219,WebDev,Инвестор,skills_219,about_219,Ищу сотрудников
+220,username_220,name_220,WebDev,Инвестор,skills_220,about_220,Ищу клиентов
+221,username_221,name_221,WebDev,Инвестор,skills_221,about_221,Ищу экспертов или консультантов
+222,username_222,name_222,WebDev,Инвестор,skills_222,about_222,Ищу партнеров для проекта
+223,username_223,name_223,WebDev,Инвестор,skills_223,about_223,Ищу проекты для инвестиций
+224,username_224,name_224,WebDev,Представитель компании,skills_224,about_224,Ищу инвестиции
+225,username_225,name_225,WebDev,Представитель компании,skills_225,about_225,Ищу место работы
+226,username_226,name_226,WebDev,Представитель компании,skills_226,about_226,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+227,username_227,name_227,WebDev,Представитель компании,skills_227,about_227,Ищу сотрудников
+228,username_228,name_228,WebDev,Представитель компании,skills_228,about_228,Ищу клиентов
+229,username_229,name_229,WebDev,Представитель компании,skills_229,about_229,Ищу экспертов или консультантов
+230,username_230,name_230,WebDev,Представитель компании,skills_230,about_230,Ищу партнеров для проекта
+231,username_231,name_231,WebDev,Представитель компании,skills_231,about_231,Ищу проекты для инвестиций
+232,username_232,name_232,WebDev,Специалист,skills_232,about_232,Ищу инвестиции
+233,username_233,name_233,WebDev,Специалист,skills_233,about_233,Ищу место работы
+234,username_234,name_234,WebDev,Специалист,skills_234,about_234,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+235,username_235,name_235,WebDev,Специалист,skills_235,about_235,Ищу сотрудников
+236,username_236,name_236,WebDev,Специалист,skills_236,about_236,Ищу клиентов
+237,username_237,name_237,WebDev,Специалист,skills_237,about_237,Ищу экспертов или консультантов
+238,username_238,name_238,WebDev,Специалист,skills_238,about_238,Ищу партнеров для проекта
+239,username_239,name_239,WebDev,Специалист,skills_239,about_239,Ищу проекты для инвестиций
+240,username_240,name_240,GameDev,Основатель стартапа,skills_240,about_240,Ищу инвестиции
+241,username_241,name_241,GameDev,Основатель стартапа,skills_241,about_241,Ищу место работы
+242,username_242,name_242,GameDev,Основатель стартапа,skills_242,about_242,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+243,username_243,name_243,GameDev,Основатель стартапа,skills_243,about_243,Ищу сотрудников
+244,username_244,name_244,GameDev,Основатель стартапа,skills_244,about_244,Ищу клиентов
+245,username_245,name_245,GameDev,Основатель стартапа,skills_245,about_245,Ищу экспертов или консультантов
+246,username_246,name_246,GameDev,Основатель стартапа,skills_246,about_246,Ищу партнеров для проекта
+247,username_247,name_247,GameDev,Основатель стартапа,skills_247,about_247,Ищу проекты для инвестиций
+248,username_248,name_248,GameDev,Владелец продукта,skills_248,about_248,Ищу инвестиции
+249,username_249,name_249,GameDev,Владелец продукта,skills_249,about_249,Ищу место работы
+250,username_250,name_250,GameDev,Владелец продукта,skills_250,about_250,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+251,username_251,name_251,GameDev,Владелец продукта,skills_251,about_251,Ищу сотрудников
+252,username_252,name_252,GameDev,Владелец продукта,skills_252,about_252,Ищу клиентов
+253,username_253,name_253,GameDev,Владелец продукта,skills_253,about_253,Ищу экспертов или консультантов
+254,username_254,name_254,GameDev,Владелец продукта,skills_254,about_254,Ищу партнеров для проекта
+255,username_255,name_255,GameDev,Владелец продукта,skills_255,about_255,Ищу проекты для инвестиций
+256,username_256,name_256,GameDev,Инвестор,skills_256,about_256,Ищу инвестиции
+257,username_257,name_257,GameDev,Инвестор,skills_257,about_257,Ищу место работы
+258,username_258,name_258,GameDev,Инвестор,skills_258,about_258,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+259,username_259,name_259,GameDev,Инвестор,skills_259,about_259,Ищу сотрудников
+260,username_260,name_260,GameDev,Инвестор,skills_260,about_260,Ищу клиентов
+261,username_261,name_261,GameDev,Инвестор,skills_261,about_261,Ищу экспертов или консультантов
+262,username_262,name_262,GameDev,Инвестор,skills_262,about_262,Ищу партнеров для проекта
+263,username_263,name_263,GameDev,Инвестор,skills_263,about_263,Ищу проекты для инвестиций
+264,username_264,name_264,GameDev,Представитель компании,skills_264,about_264,Ищу инвестиции
+265,username_265,name_265,GameDev,Представитель компании,skills_265,about_265,Ищу место работы
+266,username_266,name_266,GameDev,Представитель компании,skills_266,about_266,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+267,username_267,name_267,GameDev,Представитель компании,skills_267,about_267,Ищу сотрудников
+268,username_268,name_268,GameDev,Представитель компании,skills_268,about_268,Ищу клиентов
+269,username_269,name_269,GameDev,Представитель компании,skills_269,about_269,Ищу экспертов или консультантов
+270,username_270,name_270,GameDev,Представитель компании,skills_270,about_270,Ищу партнеров для проекта
+271,username_271,name_271,GameDev,Представитель компании,skills_271,about_271,Ищу проекты для инвестиций
+272,username_272,name_272,GameDev,Специалист,skills_272,about_272,Ищу инвестиции
+273,username_273,name_273,GameDev,Специалист,skills_273,about_273,Ищу место работы
+274,username_274,name_274,GameDev,Специалист,skills_274,about_274,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+275,username_275,name_275,GameDev,Специалист,skills_275,about_275,Ищу сотрудников
+276,username_276,name_276,GameDev,Специалист,skills_276,about_276,Ищу клиентов
+277,username_277,name_277,GameDev,Специалист,skills_277,about_277,Ищу экспертов или консультантов
+278,username_278,name_278,GameDev,Специалист,skills_278,about_278,Ищу партнеров для проекта
+279,username_279,name_279,GameDev,Специалист,skills_279,about_279,Ищу проекты для инвестиций
+280,username_280,name_280,EdTech,Основатель стартапа,skills_280,about_280,Ищу инвестиции
+281,username_281,name_281,EdTech,Основатель стартапа,skills_281,about_281,Ищу место работы
+282,username_282,name_282,EdTech,Основатель стартапа,skills_282,about_282,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+283,username_283,name_283,EdTech,Основатель стартапа,skills_283,about_283,Ищу сотрудников
+284,username_284,name_284,EdTech,Основатель стартапа,skills_284,about_284,Ищу клиентов
+285,username_285,name_285,EdTech,Основатель стартапа,skills_285,about_285,Ищу экспертов или консультантов
+286,username_286,name_286,EdTech,Основатель стартапа,skills_286,about_286,Ищу партнеров для проекта
+287,username_287,name_287,EdTech,Основатель стартапа,skills_287,about_287,Ищу проекты для инвестиций
+288,username_288,name_288,EdTech,Владелец продукта,skills_288,about_288,Ищу инвестиции
+289,username_289,name_289,EdTech,Владелец продукта,skills_289,about_289,Ищу место работы
+290,username_290,name_290,EdTech,Владелец продукта,skills_290,about_290,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+291,username_291,name_291,EdTech,Владелец продукта,skills_291,about_291,Ищу сотрудников
+292,username_292,name_292,EdTech,Владелец продукта,skills_292,about_292,Ищу клиентов
+293,username_293,name_293,EdTech,Владелец продукта,skills_293,about_293,Ищу экспертов или консультантов
+294,username_294,name_294,EdTech,Владелец продукта,skills_294,about_294,Ищу партнеров для проекта
+295,username_295,name_295,EdTech,Владелец продукта,skills_295,about_295,Ищу проекты для инвестиций
+296,username_296,name_296,EdTech,Инвестор,skills_296,about_296,Ищу инвестиции
+297,username_297,name_297,EdTech,Инвестор,skills_297,about_297,Ищу место работы
+298,username_298,name_298,EdTech,Инвестор,skills_298,about_298,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+299,username_299,name_299,EdTech,Инвестор,skills_299,about_299,Ищу сотрудников
+300,username_300,name_300,EdTech,Инвестор,skills_300,about_300,Ищу клиентов
+301,username_301,name_301,EdTech,Инвестор,skills_301,about_301,Ищу экспертов или консультантов
+302,username_302,name_302,EdTech,Инвестор,skills_302,about_302,Ищу партнеров для проекта
+303,username_303,name_303,EdTech,Инвестор,skills_303,about_303,Ищу проекты для инвестиций
+304,username_304,name_304,EdTech,Представитель компании,skills_304,about_304,Ищу инвестиции
+305,username_305,name_305,EdTech,Представитель компании,skills_305,about_305,Ищу место работы
+306,username_306,name_306,EdTech,Представитель компании,skills_306,about_306,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+307,username_307,name_307,EdTech,Представитель компании,skills_307,about_307,Ищу сотрудников
+308,username_308,name_308,EdTech,Представитель компании,skills_308,about_308,Ищу клиентов
+309,username_309,name_309,EdTech,Представитель компании,skills_309,about_309,Ищу экспертов или консультантов
+310,username_310,name_310,EdTech,Представитель компании,skills_310,about_310,Ищу партнеров для проекта
+311,username_311,name_311,EdTech,Представитель компании,skills_311,about_311,Ищу проекты для инвестиций
+312,username_312,name_312,EdTech,Специалист,skills_312,about_312,Ищу инвестиции
+313,username_313,name_313,EdTech,Специалист,skills_313,about_313,Ищу место работы
+314,username_314,name_314,EdTech,Специалист,skills_314,about_314,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+315,username_315,name_315,EdTech,Специалист,skills_315,about_315,Ищу сотрудников
+316,username_316,name_316,EdTech,Специалист,skills_316,about_316,Ищу клиентов
+317,username_317,name_317,EdTech,Специалист,skills_317,about_317,Ищу экспертов или консультантов
+318,username_318,name_318,EdTech,Специалист,skills_318,about_318,Ищу партнеров для проекта
+319,username_319,name_319,EdTech,Специалист,skills_319,about_319,Ищу проекты для инвестиций
+320,username_320,name_320,Crypto,Основатель стартапа,skills_320,about_320,Ищу инвестиции
+321,username_321,name_321,Crypto,Основатель стартапа,skills_321,about_321,Ищу место работы
+322,username_322,name_322,Crypto,Основатель стартапа,skills_322,about_322,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+323,username_323,name_323,Crypto,Основатель стартапа,skills_323,about_323,Ищу сотрудников
+324,username_324,name_324,Crypto,Основатель стартапа,skills_324,about_324,Ищу клиентов
+325,username_325,name_325,Crypto,Основатель стартапа,skills_325,about_325,Ищу экспертов или консультантов
+326,username_326,name_326,Crypto,Основатель стартапа,skills_326,about_326,Ищу партнеров для проекта
+327,username_327,name_327,Crypto,Основатель стартапа,skills_327,about_327,Ищу проекты для инвестиций
+328,username_328,name_328,Crypto,Владелец продукта,skills_328,about_328,Ищу инвестиции
+329,username_329,name_329,Crypto,Владелец продукта,skills_329,about_329,Ищу место работы
+330,username_330,name_330,Crypto,Владелец продукта,skills_330,about_330,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+331,username_331,name_331,Crypto,Владелец продукта,skills_331,about_331,Ищу сотрудников
+332,username_332,name_332,Crypto,Владелец продукта,skills_332,about_332,Ищу клиентов
+333,username_333,name_333,Crypto,Владелец продукта,skills_333,about_333,Ищу экспертов или консультантов
+334,username_334,name_334,Crypto,Владелец продукта,skills_334,about_334,Ищу партнеров для проекта
+335,username_335,name_335,Crypto,Владелец продукта,skills_335,about_335,Ищу проекты для инвестиций
+336,username_336,name_336,Crypto,Инвестор,skills_336,about_336,Ищу инвестиции
+337,username_337,name_337,Crypto,Инвестор,skills_337,about_337,Ищу место работы
+338,username_338,name_338,Crypto,Инвестор,skills_338,about_338,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+339,username_339,name_339,Crypto,Инвестор,skills_339,about_339,Ищу сотрудников
+340,username_340,name_340,Crypto,Инвестор,skills_340,about_340,Ищу клиентов
+341,username_341,name_341,Crypto,Инвестор,skills_341,about_341,Ищу экспертов или консультантов
+342,username_342,name_342,Crypto,Инвестор,skills_342,about_342,Ищу партнеров для проекта
+343,username_343,name_343,Crypto,Инвестор,skills_343,about_343,Ищу проекты для инвестиций
+344,username_344,name_344,Crypto,Представитель компании,skills_344,about_344,Ищу инвестиции
+345,username_345,name_345,Crypto,Представитель компании,skills_345,about_345,Ищу место работы
+346,username_346,name_346,Crypto,Представитель компании,skills_346,about_346,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+347,username_347,name_347,Crypto,Представитель компании,skills_347,about_347,Ищу сотрудников
+348,username_348,name_348,Crypto,Представитель компании,skills_348,about_348,Ищу клиентов
+349,username_349,name_349,Crypto,Представитель компании,skills_349,about_349,Ищу экспертов или консультантов
+350,username_350,name_350,Crypto,Представитель компании,skills_350,about_350,Ищу партнеров для проекта
+351,username_351,name_351,Crypto,Представитель компании,skills_351,about_351,Ищу проекты для инвестиций
+352,username_352,name_352,Crypto,Специалист,skills_352,about_352,Ищу инвестиции
+353,username_353,name_353,Crypto,Специалист,skills_353,about_353,Ищу место работы
+354,username_354,name_354,Crypto,Специалист,skills_354,about_354,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+355,username_355,name_355,Crypto,Специалист,skills_355,about_355,Ищу сотрудников
+356,username_356,name_356,Crypto,Специалист,skills_356,about_356,Ищу клиентов
+357,username_357,name_357,Crypto,Специалист,skills_357,about_357,Ищу экспертов или консультантов
+358,username_358,name_358,Crypto,Специалист,skills_358,about_358,Ищу партнеров для проекта
+359,username_359,name_359,Crypto,Специалист,skills_359,about_359,Ищу проекты для инвестиций
+360,username_360,name_360,FinTech,Основатель стартапа,skills_360,about_360,Ищу инвестиции
+361,username_361,name_361,FinTech,Основатель стартапа,skills_361,about_361,Ищу место работы
+362,username_362,name_362,FinTech,Основатель стартапа,skills_362,about_362,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+363,username_363,name_363,FinTech,Основатель стартапа,skills_363,about_363,Ищу сотрудников
+364,username_364,name_364,FinTech,Основатель стартапа,skills_364,about_364,Ищу клиентов
+365,username_365,name_365,FinTech,Основатель стартапа,skills_365,about_365,Ищу экспертов или консультантов
+366,username_366,name_366,FinTech,Основатель стартапа,skills_366,about_366,Ищу партнеров для проекта
+367,username_367,name_367,FinTech,Основатель стартапа,skills_367,about_367,Ищу проекты для инвестиций
+368,username_368,name_368,FinTech,Владелец продукта,skills_368,about_368,Ищу инвестиции
+369,username_369,name_369,FinTech,Владелец продукта,skills_369,about_369,Ищу место работы
+370,username_370,name_370,FinTech,Владелец продукта,skills_370,about_370,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+371,username_371,name_371,FinTech,Владелец продукта,skills_371,about_371,Ищу сотрудников
+372,username_372,name_372,FinTech,Владелец продукта,skills_372,about_372,Ищу клиентов
+373,username_373,name_373,FinTech,Владелец продукта,skills_373,about_373,Ищу экспертов или консультантов
+374,username_374,name_374,FinTech,Владелец продукта,skills_374,about_374,Ищу партнеров для проекта
+375,username_375,name_375,FinTech,Владелец продукта,skills_375,about_375,Ищу проекты для инвестиций
+376,username_376,name_376,FinTech,Инвестор,skills_376,about_376,Ищу инвестиции
+377,username_377,name_377,FinTech,Инвестор,skills_377,about_377,Ищу место работы
+378,username_378,name_378,FinTech,Инвестор,skills_378,about_378,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+379,username_379,name_379,FinTech,Инвестор,skills_379,about_379,Ищу сотрудников
+380,username_380,name_380,FinTech,Инвестор,skills_380,about_380,Ищу клиентов
+381,username_381,name_381,FinTech,Инвестор,skills_381,about_381,Ищу экспертов или консультантов
+382,username_382,name_382,FinTech,Инвестор,skills_382,about_382,Ищу партнеров для проекта
+383,username_383,name_383,FinTech,Инвестор,skills_383,about_383,Ищу проекты для инвестиций
+384,username_384,name_384,FinTech,Представитель компании,skills_384,about_384,Ищу инвестиции
+385,username_385,name_385,FinTech,Представитель компании,skills_385,about_385,Ищу место работы
+386,username_386,name_386,FinTech,Представитель компании,skills_386,about_386,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+387,username_387,name_387,FinTech,Представитель компании,skills_387,about_387,Ищу сотрудников
+388,username_388,name_388,FinTech,Представитель компании,skills_388,about_388,Ищу клиентов
+389,username_389,name_389,FinTech,Представитель компании,skills_389,about_389,Ищу экспертов или консультантов
+390,username_390,name_390,FinTech,Представитель компании,skills_390,about_390,Ищу партнеров для проекта
+391,username_391,name_391,FinTech,Представитель компании,skills_391,about_391,Ищу проекты для инвестиций
+392,username_392,name_392,FinTech,Специалист,skills_392,about_392,Ищу инвестиции
+393,username_393,name_393,FinTech,Специалист,skills_393,about_393,Ищу место работы
+394,username_394,name_394,FinTech,Специалист,skills_394,about_394,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+395,username_395,name_395,FinTech,Специалист,skills_395,about_395,Ищу сотрудников
+396,username_396,name_396,FinTech,Специалист,skills_396,about_396,Ищу клиентов
+397,username_397,name_397,FinTech,Специалист,skills_397,about_397,Ищу экспертов или консультантов
+398,username_398,name_398,FinTech,Специалист,skills_398,about_398,Ищу партнеров для проекта
+399,username_399,name_399,FinTech,Специалист,skills_399,about_399,Ищу проекты для инвестиций
+400,username_400,name_400,AI,Основатель стартапа,skills_400,about_400,Ищу инвестиции
+401,username_401,name_401,AI,Основатель стартапа,skills_401,about_401,Ищу место работы
+402,username_402,name_402,AI,Основатель стартапа,skills_402,about_402,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+403,username_403,name_403,AI,Основатель стартапа,skills_403,about_403,Ищу сотрудников
+404,username_404,name_404,AI,Основатель стартапа,skills_404,about_404,Ищу клиентов
+405,username_405,name_405,AI,Основатель стартапа,skills_405,about_405,Ищу экспертов или консультантов
+406,username_406,name_406,AI,Основатель стартапа,skills_406,about_406,Ищу партнеров для проекта
+407,username_407,name_407,AI,Основатель стартапа,skills_407,about_407,Ищу проекты для инвестиций
+408,username_408,name_408,AI,Владелец продукта,skills_408,about_408,Ищу инвестиции
+409,username_409,name_409,AI,Владелец продукта,skills_409,about_409,Ищу место работы
+410,username_410,name_410,AI,Владелец продукта,skills_410,about_410,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+411,username_411,name_411,AI,Владелец продукта,skills_411,about_411,Ищу сотрудников
+412,username_412,name_412,AI,Владелец продукта,skills_412,about_412,Ищу клиентов
+413,username_413,name_413,AI,Владелец продукта,skills_413,about_413,Ищу экспертов или консультантов
+414,username_414,name_414,AI,Владелец продукта,skills_414,about_414,Ищу партнеров для проекта
+415,username_415,name_415,AI,Владелец продукта,skills_415,about_415,Ищу проекты для инвестиций
+416,username_416,name_416,AI,Инвестор,skills_416,about_416,Ищу инвестиции
+417,username_417,name_417,AI,Инвестор,skills_417,about_417,Ищу место работы
+418,username_418,name_418,AI,Инвестор,skills_418,about_418,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+419,username_419,name_419,AI,Инвестор,skills_419,about_419,Ищу сотрудников
+420,username_420,name_420,AI,Инвестор,skills_420,about_420,Ищу клиентов
+421,username_421,name_421,AI,Инвестор,skills_421,about_421,Ищу экспертов или консультантов
+422,username_422,name_422,AI,Инвестор,skills_422,about_422,Ищу партнеров для проекта
+423,username_423,name_423,AI,Инвестор,skills_423,about_423,Ищу проекты для инвестиций
+424,username_424,name_424,AI,Представитель компании,skills_424,about_424,Ищу инвестиции
+425,username_425,name_425,AI,Представитель компании,skills_425,about_425,Ищу место работы
+426,username_426,name_426,AI,Представитель компании,skills_426,about_426,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+427,username_427,name_427,AI,Представитель компании,skills_427,about_427,Ищу сотрудников
+428,username_428,name_428,AI,Представитель компании,skills_428,about_428,Ищу клиентов
+429,username_429,name_429,AI,Представитель компании,skills_429,about_429,Ищу экспертов или консультантов
+430,username_430,name_430,AI,Представитель компании,skills_430,about_430,Ищу партнеров для проекта
+431,username_431,name_431,AI,Представитель компании,skills_431,about_431,Ищу проекты для инвестиций
+432,username_432,name_432,AI,Специалист,skills_432,about_432,Ищу инвестиции
+433,username_433,name_433,AI,Специалист,skills_433,about_433,Ищу место работы
+434,username_434,name_434,AI,Специалист,skills_434,about_434,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+435,username_435,name_435,AI,Специалист,skills_435,about_435,Ищу сотрудников
+436,username_436,name_436,AI,Специалист,skills_436,about_436,Ищу клиентов
+437,username_437,name_437,AI,Специалист,skills_437,about_437,Ищу экспертов или консультантов
+438,username_438,name_438,AI,Специалист,skills_438,about_438,Ищу партнеров для проекта
+439,username_439,name_439,AI,Специалист,skills_439,about_439,Ищу проекты для инвестиций
+440,username_440,name_440,WebDev,Основатель стартапа,skills_440,about_440,Ищу инвестиции
+441,username_441,name_441,WebDev,Основатель стартапа,skills_441,about_441,Ищу место работы
+442,username_442,name_442,WebDev,Основатель стартапа,skills_442,about_442,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+443,username_443,name_443,WebDev,Основатель стартапа,skills_443,about_443,Ищу сотрудников
+444,username_444,name_444,WebDev,Основатель стартапа,skills_444,about_444,Ищу клиентов
+445,username_445,name_445,WebDev,Основатель стартапа,skills_445,about_445,Ищу экспертов или консультантов
+446,username_446,name_446,WebDev,Основатель стартапа,skills_446,about_446,Ищу партнеров для проекта
+447,username_447,name_447,WebDev,Основатель стартапа,skills_447,about_447,Ищу проекты для инвестиций
+448,username_448,name_448,WebDev,Владелец продукта,skills_448,about_448,Ищу инвестиции
+449,username_449,name_449,WebDev,Владелец продукта,skills_449,about_449,Ищу место работы
+450,username_450,name_450,WebDev,Владелец продукта,skills_450,about_450,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+451,username_451,name_451,WebDev,Владелец продукта,skills_451,about_451,Ищу сотрудников
+452,username_452,name_452,WebDev,Владелец продукта,skills_452,about_452,Ищу клиентов
+453,username_453,name_453,WebDev,Владелец продукта,skills_453,about_453,Ищу экспертов или консультантов
+454,username_454,name_454,WebDev,Владелец продукта,skills_454,about_454,Ищу партнеров для проекта
+455,username_455,name_455,WebDev,Владелец продукта,skills_455,about_455,Ищу проекты для инвестиций
+456,username_456,name_456,WebDev,Инвестор,skills_456,about_456,Ищу инвестиции
+457,username_457,name_457,WebDev,Инвестор,skills_457,about_457,Ищу место работы
+458,username_458,name_458,WebDev,Инвестор,skills_458,about_458,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+459,username_459,name_459,WebDev,Инвестор,skills_459,about_459,Ищу сотрудников
+460,username_460,name_460,WebDev,Инвестор,skills_460,about_460,Ищу клиентов
+461,username_461,name_461,WebDev,Инвестор,skills_461,about_461,Ищу экспертов или консультантов
+462,username_462,name_462,WebDev,Инвестор,skills_462,about_462,Ищу партнеров для проекта
+463,username_463,name_463,WebDev,Инвестор,skills_463,about_463,Ищу проекты для инвестиций
+464,username_464,name_464,WebDev,Представитель компании,skills_464,about_464,Ищу инвестиции
+465,username_465,name_465,WebDev,Представитель компании,skills_465,about_465,Ищу место работы
+466,username_466,name_466,WebDev,Представитель компании,skills_466,about_466,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+467,username_467,name_467,WebDev,Представитель компании,skills_467,about_467,Ищу сотрудников
+468,username_468,name_468,WebDev,Представитель компании,skills_468,about_468,Ищу клиентов
+469,username_469,name_469,WebDev,Представитель компании,skills_469,about_469,Ищу экспертов или консультантов
+470,username_470,name_470,WebDev,Представитель компании,skills_470,about_470,Ищу партнеров для проекта
+471,username_471,name_471,WebDev,Представитель компании,skills_471,about_471,Ищу проекты для инвестиций
+472,username_472,name_472,WebDev,Специалист,skills_472,about_472,Ищу инвестиции
+473,username_473,name_473,WebDev,Специалист,skills_473,about_473,Ищу место работы
+474,username_474,name_474,WebDev,Специалист,skills_474,about_474,Ищу интересного и полезного общения в рамках обсуждения сферы деятельности
+475,username_475,name_475,WebDev,Специалист,skills_475,about_475,Ищу сотрудников
+476,username_476,name_476,WebDev,Специалист,skills_476,about_476,Ищу клиентов
+477,username_477,name_477,WebDev,Специалист,skills_477,about_477,Ищу экспертов или консультантов
+478,username_478,name_478,WebDev,Специалист,skills_478,about_478,Ищу партнеров для проекта
+479,username_479,name_479,WebDev,Специалист,skills_479,about_479,Ищу проекты для инвестиций
+480,username_480,name_480,GameDev,Основатель стартапа,skills_480,about_480,Ищу инвестиции
